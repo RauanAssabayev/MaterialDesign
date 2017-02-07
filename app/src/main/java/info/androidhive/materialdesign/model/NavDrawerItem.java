@@ -1,7 +1,7 @@
 package info.androidhive.materialdesign.model;
 
 /**
- * Created by Ravi on 29/07/15.
+ * Created by Rauan on 07/02/17.
  */
 public class NavDrawerItem {
     private boolean showNotify;

@@ -10,20 +10,18 @@ import android.view.ViewGroup;
 import info.androidhive.materialdesign.R;
 
 /**
- * Created by Ravi on 29/07/15.
+ * Created by Rauan on 07/02/17.
  */
 public class FriendsFragment extends Fragment {
 
     public FriendsFragment() {
         // Required empty public constructor
     }
-
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
 
     }
-
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {

@@ -1,7 +1,7 @@
 package info.androidhive.materialdesign.activity;
 
 /**
- * Created by Ravi on 29/07/15.
+ * Created by Rauan on 07/02/17.
  */
 import android.app.Activity;
 import android.os.Bundle;
